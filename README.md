@@ -24,6 +24,6 @@ must create your own logic to solve the problem._
 
 Como nas restrições não cita a proibição de frameworks, eu utilizei o PHPUnit.
 
-Essa restrição me deixou um pouco confuso. Não poder utilizar "funções internas da linguagem" inviabilizaria um pouco o processo, devido o PHP ser uma linguagem de alto nível. Mesmo eu não utilizando as funções de date, ainda usaria outras funções internas. Sendo elas: intval(), checkdate(), array() entre outras. 
+Essa restrição me deixou um pouco confuso: Não poder utilizar "funções internas da linguagem" inviabilizaria um pouco o processo, devido o PHP ser uma linguagem de alto nível. Mesmo eu não utilizando as funções de date, ainda usaria outras funções internas. Sendo elas: intval(), checkdate(), array() entre outras. 
 
 Portanto, uma boa lógica as vezes não é escrever um código complexo e com muitas linhas, mas sim, tirar o maior proveito possível da linguagem, utilizando o seu legado e suas facilitações, visando uma boa performance e fácil manutenção.
