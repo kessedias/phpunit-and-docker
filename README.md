@@ -24,4 +24,4 @@ Essa restrição me deixou um pouco confuso. Não poder utilizar "funções inte
 
 Portanto, uma boa lógica as vezes não é escrever um código complexo e com muitas linhas, mas sim, tirar o maior proveito possível da linguagem, utilizando o seu legado e suas facilitações, visando uma boa performance e fácil manutenção.
 
-Já peço desculpas adiantadas caso a configuração do docker e dos testes automatizadas tenham ficados meio grosseiras, pois ainda estou me familiarizando com ambas tecnologias, pois não é do meu uso cotidiano.
+Já peço desculpas adiantadas caso a configuração do docker e dos testes automatizados tenham ficados meio grosseiras, pois ainda estou me familiarizando com ambas tecnologias, pois não é do meu uso cotidiano.
