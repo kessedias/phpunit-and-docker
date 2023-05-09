@@ -22,7 +22,7 @@ _You may NOT use libraries or *language internal functions* that convert the str
 to date or that calculates the day number of the year for the developer. You
 must create your own logic to solve the problem._
 
-Como nas resrições não cita a proibição de frameworks, eu utilizei o PHPUnit.
+Como nas restrições não cita a proibição de frameworks, eu utilizei o PHPUnit.
 
 Essa restrição me deixou um pouco confuso. Não poder utilizar "funções internas da linguagem" inviabilizaria um pouco o processo, devido o PHP ser uma linguagem de alto nível. Mesmo eu não utilizando as funções de date, ainda usaria outras funções internas. Sendo elas: intval(), checkdate(), array() entre outras. 
 
