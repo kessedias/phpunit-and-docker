@@ -1,0 +1,24 @@
+{
+    "name": "kesse/voxus_test",
+    "autoload": {
+        "psr-4": {
+            "app\\": "app/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "tests\\": "tests/"
+        }
+    },
+    "description": "Teste VOXUS PL",
+    "authors": [
+        {
+            "name": "Kesse Dias",
+            "email": "kesse.dias97@outlook.com"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "9"
+    }
+}
