@@ -1,4 +1,4 @@
-<h1 align="center">Utilização básica do PHP UNIT e Docker</h1>
+<h1 align="center">Utilização básica do PHPUnit e Docker</h1>
 <p>
 </p>
 
